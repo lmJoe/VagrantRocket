@@ -1,0 +1,22 @@
+{
+  "0": {
+    "ID": "0",
+    "type": 1,
+    "num": 10,
+    "time": 60,
+    "weight": 10,
+    "desc": "10倍金币收益持续60秒",
+    "hintImage": "buffadd",
+    "hintText": "hint_5speed"
+  },
+  "1": {
+    "ID": "1",
+    "type": 2,
+    "num": 4,
+    "time": 60,
+    "weight": 10,
+    "desc": "免费获得4架火箭",
+    "hintImage": "spincarbox",
+    "hintText": "hint_x4cars"
+  }
+}

@@ -1,0 +1,12 @@
+<page>
+   <item name="test/TestScene.scene" props="" ifExport="分离模式" aName=""/>
+   <item name="game/SolarGameView.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="game/SolarScene.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="view/HomePage.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="view/LoadingPage.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="popup/SettingPanel.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="view/GameInfoPage.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="view/BalancePage.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="component/BoostMeterUI.scene" props="" ifExport="内嵌模式" aName=""/>
+   <item name="component/TipDialog.scene" props="" ifExport="内嵌模式" aName=""/>
+</page>

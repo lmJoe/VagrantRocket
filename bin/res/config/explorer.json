@@ -1,0 +1,177 @@
+{
+  "1": {
+    "id": "1",
+    "rankMin": 1500000,
+    "rankMax": 2000000
+  },
+  "2": {
+    "id": "2",
+    "rankMin": 200000,
+    "rankMax": 500000
+  },
+  "3": {
+    "id": "3",
+    "rankMin": 30000,
+    "rankMax": 40000
+  },
+  "4": {
+    "id": "4",
+    "rankMin": 60000,
+    "rankMax": 90000
+  },
+  "5": {
+    "id": "5",
+    "rankMin": 800000,
+    "rankMax": 1200000
+  },
+  "6": {
+    "id": "6",
+    "rankMin": 1200000,
+    "rankMax": 1500000
+  },
+  "7": {
+    "id": "7",
+    "rankMin": 90000,
+    "rankMax": 200000
+  },
+  "8": {
+    "id": "8",
+    "rankMin": 500000,
+    "rankMax": 800000
+  },
+  "9": {
+    "id": "9",
+    "rankMin": 40000,
+    "rankMax": 60000
+  },
+  "10": {
+    "id": "10",
+    "rankMin": 20000,
+    "rankMax": 30000
+  },
+  "11": {
+    "id": "11",
+    "rankMin": 15000,
+    "rankMax": 20000
+  },
+  "12": {
+    "id": "12",
+    "rankMin": 7000,
+    "rankMax": 9000
+  },
+  "13": {
+    "id": "13",
+    "rankMin": 4000,
+    "rankMax": 7000
+  },
+  "14": {
+    "id": "14",
+    "rankMin": 5000,
+    "rankMax": 8000
+  },
+  "15": {
+    "id": "15",
+    "rankMin": 9000,
+    "rankMax": 10000
+  },
+  "16": {
+    "id": "16",
+    "rankMin": 10000,
+    "rankMax": 15000
+  },
+  "17": {
+    "id": "17",
+    "rankMin": 6000,
+    "rankMax": 9000
+  },
+  "18": {
+    "id": "18",
+    "rankMin": 8000,
+    "rankMax": 10000
+  },
+  "19": {
+    "id": "19",
+    "rankMin": 5000,
+    "rankMax": 7000
+  },
+  "20": {
+    "id": "20",
+    "rankMin": 4000,
+    "rankMax": 6000
+  },
+  "21": {
+    "id": "21",
+    "rankMin": 3000,
+    "rankMax": 6000
+  },
+  "22": {
+    "id": "22",
+    "rankMin": 1000,
+    "rankMax": 4000
+  },
+  "23": {
+    "id": "23",
+    "rankMin": 1000,
+    "rankMax": 1200
+  },
+  "24": {
+    "id": "24",
+    "rankMin": 1000,
+    "rankMax": 2000
+  },
+  "25": {
+    "id": "25",
+    "rankMin": 2000,
+    "rankMax": 5000
+  },
+  "26": {
+    "id": "26",
+    "rankMin": 3000,
+    "rankMax": 5000
+  },
+  "27": {
+    "id": "27",
+    "rankMin": 1000,
+    "rankMax": 3000
+  },
+  "28": {
+    "id": "28",
+    "rankMin": 2000,
+    "rankMax": 4000
+  },
+  "29": {
+    "id": "29",
+    "rankMin": 1000,
+    "rankMax": 1500
+  },
+  "30": {
+    "id": "30",
+    "rankMin": 1000,
+    "rankMax": 1500
+  },
+  "31": {
+    "id": "31",
+    "rankMin": 1000,
+    "rankMax": 1500
+  },
+  "32": {
+    "id": "32",
+    "rankMin": 1000,
+    "rankMax": 1500
+  },
+  "33": {
+    "id": "33",
+    "rankMin": 1000,
+    "rankMax": 1500
+  },
+  "34": {
+    "id": "34",
+    "rankMin": 1000,
+    "rankMax": 1500
+  },
+  "35": {
+    "id": "35",
+    "rankMin": 500,
+    "rankMax": 1000
+  }
+}

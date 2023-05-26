@@ -1,0 +1,360 @@
+{
+  "1": {
+    "skinId": "1",
+    "skinName": "太空探索器",
+    "skinType": 1,
+    "headId": 111,
+    "desc": "承载着祖国的荣誉，去遥远的外太空流浪",
+    "colorList": [
+      1,
+      2,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 7,
+    "icon": "skinIcon_111"
+  },
+  "2": {
+    "skinId": "2",
+    "skinName": "超级英雄",
+    "skinType": 1,
+    "headId": 112,
+    "desc": "耐得住旅途寂寞的你们，配得上 超级英雄 称号",
+    "colorList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 25,
+    "icon": "skinIcon_112"
+  },
+  "3": {
+    "skinId": "3",
+    "skinName": "UFO",
+    "skinType": 1,
+    "headId": 113,
+    "desc": "努力仿造外星人的飞船，就是为提升一点格调",
+    "colorList": [
+      0,
+      2,
+      3
+    ],
+    "unlockType": 0,
+    "unlockValue": 9,
+    "icon": "skinIcon_113"
+  },
+  "4": {
+    "skinId": "4",
+    "skinName": "太空飞车",
+    "skinType": 1,
+    "headId": 114,
+    "desc": "来了，来了，他驾驶着飞车来了！",
+    "colorList": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 21,
+    "icon": "skinIcon_114"
+  },
+  "5": {
+    "skinId": "5",
+    "skinName": "太空海盗",
+    "skinType": 1,
+    "headId": 115,
+    "desc": "行驶在太空中的海盗船，令人闻风丧胆",
+    "colorList": [
+      0,
+      1,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 15,
+    "icon": "skinIcon_115"
+  },
+  "6": {
+    "skinId": "6",
+    "skinName": "星际飞船",
+    "skinType": 1,
+    "headId": 116,
+    "desc": "荣誉的象征，从此我们告别太阳系",
+    "colorList": [
+      0,
+      3,
+      4
+    ],
+    "unlockType": 2,
+    "unlockValue": 2,
+    "icon": "skinIcon_116"
+  },
+  "7": {
+    "skinId": "7",
+    "skinName": "空中阁楼",
+    "skinType": 1,
+    "headId": 117,
+    "desc": "看！一幢会飞的楼房",
+    "colorList": [
+      0,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 12,
+    "icon": "skinIcon_117"
+  },
+  "8": {
+    "skinId": "8",
+    "skinName": "招财猫",
+    "skinType": 1,
+    "headId": 118,
+    "desc": "招财进宝，喵喵喵~",
+    "colorList": [
+      4
+    ],
+    "unlockType": 3,
+    "unlockValue": 3,
+    "icon": "skinIcon_118"
+  },
+  "9": {
+    "skinId": "9",
+    "skinName": "甜甜圈",
+    "skinType": 1,
+    "headId": 119,
+    "desc": "爱吃甜甜圈的人，运气都不会差",
+    "colorList": [
+      3
+    ],
+    "unlockType": 3,
+    "unlockValue": 7,
+    "icon": "skinIcon_119"
+  },
+  "10": {
+    "skinId": "10",
+    "skinName": "鼠钱宝",
+    "skinType": 1,
+    "headId": 120,
+    "desc": "你是喜欢金鼠头还是银鼠头呢",
+    "colorList": [
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 18,
+    "icon": "skinIcon_120"
+  },
+  "11": {
+    "skinId": "11",
+    "skinName": "垃圾狗",
+    "skinType": 1,
+    "headId": 121,
+    "desc": "生命力顽强，在太空中依然能找到食物",
+    "colorList": [
+      1,
+      2
+    ],
+    "unlockType": 0,
+    "unlockValue": 30,
+    "icon": "skinIcon_121"
+  },
+  "12": {
+    "skinId": "12",
+    "skinName": "太空蛋",
+    "skinType": 1,
+    "headId": 122,
+    "desc": "太空孕育的新生命",
+    "colorList": [
+      0
+    ],
+    "unlockType": 0,
+    "unlockValue": 35,
+    "icon": "skinIcon_122"
+  },
+  "13": {
+    "skinId": "13",
+    "skinName": "银河海马",
+    "skinType": 1,
+    "headId": 123,
+    "desc": "银河海马志气大，风吹日晒都不怕",
+    "colorList": [
+      1,
+      3
+    ],
+    "unlockType": 0,
+    "unlockValue": 40,
+    "icon": "skinIcon_123"
+  },
+  "14": {
+    "skinId": "14",
+    "skinName": "方舟号",
+    "skinType": 0,
+    "headId": 101,
+    "desc": -1,
+    "colorList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 2,
+    "icon": 1
+  },
+  "15": {
+    "skinId": "15",
+    "skinName": "聚变号",
+    "skinType": 0,
+    "headId": 102,
+    "desc": -1,
+    "colorList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 4,
+    "icon": 6
+  },
+  "16": {
+    "skinId": "16",
+    "skinName": "致美号",
+    "skinType": 0,
+    "headId": 103,
+    "desc": -1,
+    "colorList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 6,
+    "icon": 11
+  },
+  "17": {
+    "skinId": "17",
+    "skinName": "长征号",
+    "skinType": 0,
+    "headId": 104,
+    "desc": -1,
+    "colorList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 8,
+    "icon": 16
+  },
+  "18": {
+    "skinId": "18",
+    "skinName": "探索者",
+    "skinType": 0,
+    "headId": 105,
+    "desc": -1,
+    "colorList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 10,
+    "icon": 21
+  },
+  "19": {
+    "skinId": "19",
+    "skinName": "弹射",
+    "skinType": 0,
+    "headId": 106,
+    "desc": -1,
+    "colorList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 12,
+    "icon": 26
+  },
+  "20": {
+    "skinId": "20",
+    "skinName": "侠客",
+    "skinType": 0,
+    "headId": 107,
+    "desc": -1,
+    "colorList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 14,
+    "icon": 31
+  },
+  "21": {
+    "skinId": "21",
+    "skinName": "夜鹰",
+    "skinType": 0,
+    "headId": 108,
+    "desc": -1,
+    "colorList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 16,
+    "icon": 36
+  },
+  "22": {
+    "skinId": "22",
+    "skinName": "银河",
+    "skinType": 0,
+    "headId": 109,
+    "desc": -1,
+    "colorList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 19,
+    "icon": 41
+  },
+  "23": {
+    "skinId": "23",
+    "skinName": "战神",
+    "skinType": 0,
+    "headId": 110,
+    "desc": -1,
+    "colorList": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "unlockType": 0,
+    "unlockValue": 22,
+    "icon": 46
+  }
+}

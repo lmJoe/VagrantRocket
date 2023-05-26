@@ -1,0 +1,178 @@
+{
+  "101": {
+    "id": "101",
+    "type": 1,
+    "npcIcon": 1,
+    "content": "你好，我是AI吴博士<br>恭喜你加入<span color='#ff4242'>流浪计划</span>",
+    "tvImg": "tvImg1",
+    "nextId": 102
+  },
+  "102": {
+    "id": "102",
+    "type": 1,
+    "npcIcon": 3,
+    "content": "太阳即将毁灭<br>你要携带人类<span color='#ff4242'>寻找新家园</span>",
+    "tvImg": "tvImg1",
+    "nextId": 103
+  },
+  "103": {
+    "id": "103",
+    "type": 1,
+    "npcIcon": 1,
+    "content": "我们刚刚降落在一颗星球<br>快去看看吧…",
+    "tvImg": "tvImg1",
+    "nextId": 1031
+  },
+  "104": {
+    "id": "104",
+    "type": 1,
+    "npcIcon": 3,
+    "content": "这星球并不适合人类居住<br>我们只能继续前进了",
+    "tvImg": "Star1",
+    "nextId": 105
+  },
+  "105": {
+    "id": "105",
+    "type": 1,
+    "npcIcon": 1,
+    "content": "先去学习<span color='#ff4242'>升级火箭</span>吧<br>高等级火箭可以加速飞行",
+    "tvImg": "Star1",
+    "nextId": -1
+  },
+  "106": {
+    "id": "106",
+    "type": 2,
+    "npcIcon": -1,
+    "content": 2,
+    "tvImg": -1,
+    "nextId": 107
+  },
+  "107": {
+    "id": "107",
+    "type": 1,
+    "npcIcon": 3,
+    "content": "没有大气层就没了保护伞<br>看来太阳系只有一个地球",
+    "tvImg": "Star2",
+    "nextId": 108
+  },
+  "108": {
+    "id": "108",
+    "type": 1,
+    "npcIcon": 1,
+    "content": "我已把它记录在<span color='#ff4242'>星球百科</span><br>继续寻找家园吧...",
+    "tvImg": "Star2",
+    "nextId": -1
+  },
+  "109": {
+    "id": "109",
+    "type": 2,
+    "npcIcon": -1,
+    "content": 3,
+    "tvImg": -1,
+    "nextId": 110
+  },
+  "110": {
+    "id": "110",
+    "type": 1,
+    "npcIcon": 3,
+    "content": "这颗星球也太危险了吧<br>看来只能靠信仰继续前进",
+    "tvImg": "Star3",
+    "nextId": 111
+  },
+  "111": {
+    "id": "111",
+    "type": 1,
+    "npcIcon": 1,
+    "content": "对了，你选择了<span color='#ff4242'>{NationName}</span>阵营<br>{NationDesc}",
+    "tvImg": "Star3",
+    "nextId": 112
+  },
+  "112": {
+    "id": "112",
+    "type": 1,
+    "npcIcon": 2,
+    "content": "替换掉其它阵营的旗帜<br>可以获得<span color='#ff4242'>3倍奖励</span>",
+    "tvImg": "Star3",
+    "nextId": -1
+  },
+  "113": {
+    "id": "113",
+    "type": 2,
+    "npcIcon": -1,
+    "content": 10,
+    "tvImg": -1,
+    "nextId": 114
+  },
+  "114": {
+    "id": "114",
+    "type": 1,
+    "npcIcon": 2,
+    "content": "这颗星球看起来不错<br>我差点把它错认为地球",
+    "tvImg": "Star10",
+    "nextId": 115
+  },
+  "115": {
+    "id": "115",
+    "type": 1,
+    "npcIcon": 3,
+    "content": "但星球的陆地面积太少<br>未来人口扩张是个大问题",
+    "tvImg": "Star10",
+    "nextId": 116
+  },
+  "116": {
+    "id": "116",
+    "type": 1,
+    "npcIcon": 1,
+    "content": "我们继续前进吧<br>我对人类的未来充满信心",
+    "tvImg": "Star10",
+    "nextId": -1
+  },
+  "117": {
+    "id": "117",
+    "type": 2,
+    "npcIcon": -1,
+    "content": 40,
+    "tvImg": "Star40",
+    "nextId": 118
+  },
+  "118": {
+    "id": "118",
+    "type": 1,
+    "npcIcon": 2,
+    "content": "太令人开心了！<br>我们总算抵达了<span color='#ff4242'>新家园</span>",
+    "tvImg": "Star40",
+    "nextId": 119
+  },
+  "119": {
+    "id": "119",
+    "type": 1,
+    "npcIcon": 1,
+    "content": "作为一名飞行员<br>你完成了人类迁徙的使命",
+    "tvImg": "Star40",
+    "nextId": 120
+  },
+  "120": {
+    "id": "120",
+    "type": 1,
+    "npcIcon": 1,
+    "content": "我们已经探索很多星球<br>真期待后面还会有什么",
+    "tvImg": "Star40",
+    "nextId": 121
+  },
+  "121": {
+    "id": "121",
+    "type": 1,
+    "npcIcon": 2,
+    "content": "也许我们爱上了流浪<br>去<span color='#ff4242'>更远的星系</span>看一看吧",
+    "tvImg": "Star40",
+    "nextId": -1
+  },
+  "1031": {
+    "id": "1031",
+    "type": 2,
+    "npcIcon": -1,
+    "content": 1,
+    "tvImg": -1,
+    "nextId": 104
+  }
+}
